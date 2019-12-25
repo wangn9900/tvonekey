@@ -77,7 +77,7 @@ if [ $real_addr == $local_addr ] ; then
 	wget https://github.com/trojan-gfw/trojan/releases/download/v1.13.0/trojan-1.13.0-linux-amd64.tar.xz
 	tar xf trojan-1.*
 	#下载trojan客户端
-	wget https://raw.githubusercontent.com/wangn9900/tvonekey/master/trojan-
+	wget https://raw.githubusercontent.com/wangn9900/tvonekey/master/trojan-cli.zip
 	unzip trojan-cli.zip
 	cp /usr/src/trojan-cert/fullchain.cer /usr/src/trojan-cli/fullchain.cer
 	trojan_passwd=$(cat /dev/urandom | head -1 | md5sum | head -c 8)
