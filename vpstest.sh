@@ -64,9 +64,9 @@ start_menu(){
     clear
 	green "=========================================================="
      blue " 本脚本支持：CentOS7+ / Debian9+ / Ubuntu16.04+"
-	 blue " 网站：www.wxf2088.xyz "
-	 blue " YouTube频道：王晓峰 "
-     blue " 此脚本源于网络，只是汇聚脚本功能，方便大家使用而已！"
+	 blue " 网站：www. （已开启禁止国内访问）"
+	 blue " YouTube频道：王晓峰"
+     blue " 此脚本源于网络，波仔只是汇聚脚本功能，方便大家使用而已！"
 	green "=========================================================="
    yellow " 简介：VPS综合性能测试脚本 （包含性能、速度、回程路由）"
    yellow " 首发: https://www.v2rayssr.com/vpstest.html"
